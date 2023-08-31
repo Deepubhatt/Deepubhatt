@@ -57,4 +57,3 @@ I hold a post-grad degree in Mathematics and aim to launch my career as a Data A
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
