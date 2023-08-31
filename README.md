@@ -55,5 +55,3 @@ I hold a post-grad degree in Mathematics and aim to launch my career as a Data A
 </div>  
 
 <br />
-
-----
