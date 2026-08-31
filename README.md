@@ -1,7 +1,7 @@
 ## <div align="center">Hi there, I'm Deepak Bhatt! 👋 </div>  
   
 
-I hold a post-grad degree in Mathematics and aim to launch my career as a Data Analyst, applying mathematical expertise for data-driven decision-making and business growth.  
+I hold a post-grad degree in Mathematics and currently working in **Delhivery** as a **Data Analyst** in the Supply Chain vertical, applying mathematical expertise for data-driven decision-making and business growth.
   
 
 - 🔭 I'm actively applying my Data Analysis skills to real-world projects, simultaneously building a robust portfolio to showcase my expertise.  
@@ -18,11 +18,12 @@ I hold a post-grad degree in Mathematics and aim to launch my career as a Data A
 
 ## My Skill Set  
 
-* Excel
-* SQL
 * Python (Numpy, Pandas, Matplotlib, Seaborn, SkLearn)
-* Tableau
+* SQL
+* Advanced Excel
 * Machine Learning
+* Power BI
+* Tableau
 * Statistical Modelling
 
 
@@ -40,18 +41,4 @@ I hold a post-grad degree in Mathematics and aim to launch my career as a Data A
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Deepubhatt&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepubhatt&hide_border=true&layout=compact" align="left" />  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Deepubhatt&&style=flat-square" align="center" />
-</div>  
-
-<br />
+<br/>
